@@ -19,3 +19,5 @@ Fruit Ninja: https://mathpunch.github.io/doggy
 Rooftop Snipers: https://mathpunch.github.io/fox
 
 Tunnel Rush: https://mathpunch.github.io/bat
+
+Penalty Kick Online: https://mathpunch.github.io/wolf
