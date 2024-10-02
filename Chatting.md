@@ -1,1 +1,1 @@
-https://mathpunch.github.io/chat/
+https://sites.google.com/view/mathpunch
