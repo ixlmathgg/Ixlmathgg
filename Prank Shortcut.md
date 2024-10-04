@@ -1,3 +1,3 @@
-https://www.icloud.com/shortcuts/7ce50694ad254fb1b36e93c840950f16
+https://www.icloud.com/shortcuts/4e9a1be2aace434981f58226805be72f
 
 WARNING THIS SHORTCUT IS EXTREME BE CAREFUL
