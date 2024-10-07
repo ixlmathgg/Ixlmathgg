@@ -10,7 +10,7 @@ TapTapShots: https://mathpunch.github.io/snake
 
 Drive Mad: https://mathpunch.github.io/shark
 
-DOWN BECAUSE OF KAM Emulator JS: https://mathpunch.github.io/zebra
+Emulator JS: https://mathpunch.github.io/zebra
 
 Wordle Unlimited: https://mathpunch.github.io/turtle
 
