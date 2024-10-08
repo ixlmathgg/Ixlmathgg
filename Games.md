@@ -22,6 +22,4 @@ Tunnel Rush: https://mathpunch.github.io/bat
 
 Burrito Bison: https://mathpunch.github.io/wolf
 
-Linebacker Ally 2: https://mathpunch.github.io/bird
-
 Truck Simulator: https://mathpunch.github.io/monkey
